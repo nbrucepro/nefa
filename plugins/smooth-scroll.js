@@ -1,6 +1,6 @@
-import Vue from 'vue'
-import vueSmoothScroll from 'vue2-smooth-scroll'
+// import Vue from 'vue'
+// import vueSmoothScroll from 'vue2-smooth-scroll'
 
-Vue.use(vueSmoothScroll)
+// Vue.use(vueSmoothScroll)
 
-export default {}
+// export default {}
